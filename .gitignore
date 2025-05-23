@@ -1,2 +1,4 @@
 .qodo
-.node_modules/
+.node_modules
+/test
+.env
